@@ -3,5 +3,7 @@ const capitalize = (string) => {
         return '';
     }
     const [firstChar, ...rest] = string;
-    return `${firstChar.toUpperCase()}${rest.join()}`;
-}
+    return `${firstChar.toUpperCase()}${rest.join('')}`;
+};
+
+export default capitalize;
