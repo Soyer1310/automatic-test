@@ -1,0 +1,23 @@
+{
+  "name": "automatic-test",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "study repository about automatic tests",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Soyer1310/automatic-test.git"
+  },
+  "author": "Artem Melnikov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Soyer1310/automatic-test/issues"
+  },
+  "homepage": "https://github.com/Soyer1310/automatic-test#readme"
+}
