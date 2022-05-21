@@ -19,8 +19,5 @@
   "bugs": {
     "url": "https://github.com/Soyer1310/automatic-test/issues"
   },
-  "homepage": "https://github.com/Soyer1310/automatic-test#readme",
-  "devDependencies": {
-    "power-assert": "^1.6.1"
-  }
+  "homepage": "https://github.com/Soyer1310/automatic-test#readme"
 }
